@@ -1,2 +1,2 @@
 # First-Steps-Python
-This Contains 30 of the most basic python Codes.
+This Contains some of the most basic python codes.
