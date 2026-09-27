@@ -43,3 +43,17 @@ Write a Python program to Take two numbers and display their sum.
 ### Output
 
 [Click here to view the output](output3.png)
+
+## Program 4 — Arithmetic Operations on Two Numbers
+
+### Problem Statement
+
+Write a Python program to take two numbers as input and perform all basic arithmetic operations on them.
+
+### Code
+
+![Python Code](code4.png)
+
+### Output
+
+[Click here to view the output](output4.png)
