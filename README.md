@@ -29,3 +29,17 @@ Write a Python program to Take name as input and greet the user.
 ### Output
 
 [Click here to view the output](output2.png)
+
+## Program 3 — Take two numbers and display their sum
+
+### Problem Statement
+
+Write a Python program to Take two numbers and display their sum.
+
+### Code
+
+![Python Code](code3.png)
+
+### Output
+
+[Click here to view the output](output3.png)
