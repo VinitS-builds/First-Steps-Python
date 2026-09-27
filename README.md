@@ -1,2 +1,17 @@
 # First-Steps-Python
-This Contains some of the most basic python codes.
+
+This repository contains some basic Python programs useful for beginners.
+
+## Program 1 — Sum of Two Numbers
+
+### Problem Statement
+
+Write a Python program to Print name, age, college and branch.
+
+### Code
+
+![Python Code](code1.png)
+
+### Output
+
+[Click here to view the output](output1.png)
