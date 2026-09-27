@@ -2,7 +2,7 @@
 
 This repository contains some basic Python programs useful for beginners.
 
-## Program 1 — Sum of Two Numbers
+## Program 1 — Print name, age, college and branch.
 
 ### Problem Statement
 
